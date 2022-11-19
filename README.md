@@ -1,5 +1,8 @@
-# Olá, Eu sou a  Adriana Ramos 👋
+# Olá, Eu sou a Adriana, Desenvolvedora Full Stack 👋
 
+👩🏻‍💻 Estudante Labenu - Desenvolvedora Full Stack;
+
+😄 Pronouns: Ela/Dela/She/Her
 
 ![ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianaramss&show_icons=true&theme=dracula&count_private=true)
 
