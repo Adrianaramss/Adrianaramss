@@ -1,4 +1,4 @@
-# Olá, Eu sou a Adriana, Desenvolvedora Full Stack, Seja Bem-vindo 💜
+# Olá, Eu sou a Adriana, Desenvolvedora Full Stack, Seja Bem-vindo💜
 👩🏻‍💻 Estudante Labenu - Desenvolvedora Full Stack;<br>🌸Pronouns: Ela/Dela/She/Her
 
 
