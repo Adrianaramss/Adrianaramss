@@ -5,9 +5,8 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=true)<br/>
 
 
 
@@ -18,3 +17,8 @@
 ### 🌐 Socials:
 
  <a href="https://www.linkedin.com/in/adriana-ramss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+
