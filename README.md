@@ -1,4 +1,4 @@
-### Olá, Eu sou a Adriana, Desenvolvedora Front-End, Seja Bem-vindo💜
+### Olá, Eu sou a Adriana, Desenvolvedora Full Stack, Seja Bem-vindo💜
 
 🌸Pronouns: Ela/Dela/She/Her
 
