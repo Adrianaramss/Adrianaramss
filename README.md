@@ -5,6 +5,17 @@
 </div>
 <br>
 
+
+- 🔭 Full Stack Web Developer formed by Labenu
+- 💻 HTML | CSS | React | Jest | JavaScript | Node JS | TypeScript | MySQL | AWS 
+- 🔭 I’m looking for a job
+- 🌸 Pronouns: She/Her
+
+
+
+
+<br>
+
 <div align="center">
 
   <a href="https://github.com/Adrianaramss">
