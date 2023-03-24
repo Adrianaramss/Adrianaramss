@@ -5,6 +5,7 @@
 </div>
 
 ## About me: 
+
 <img align="right" height="200" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
 
 
