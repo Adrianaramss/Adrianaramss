@@ -3,19 +3,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=black&center=true&vCenter=true&width=700&lines=Hi!+Call+me+Adriana+👋+Full+Stack+Developer+💻💜;" alt="Olá, Meu nome é Adriana.">
 </a>
 </div>
-<br>
+
+## About me: 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
 
 
-- 🔭 Full Stack Web Developer formed by Labenu
-- 💻 HTML | CSS | React | Jest | JavaScript | Node JS | TypeScript | MySQL | AWS 
-- 🔭 I’m looking for a job
-- 🌸 Pronouns: She/Her
+🔭 Full Stack Web Developer formed by Labenu <br>
+
+💻 HTML | CSS | React | Jest | JavaScript | Node JS | TypeScript | MySQL | AWS <br>
+
+🔭 I’m looking for a job <br>
+
+🌸 Pronouns: She/Her
+
+📫 Find me: adrianascosta9@gmail.com
 
 
 
-
-<br>
-
+## 
 <div align="center">
 
   <a href="https://github.com/Adrianaramss">
