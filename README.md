@@ -15,7 +15,9 @@
 
 🔭 I’m looking for a job <br>
 
-🌸 Pronouns: She/Her
+🌸 Pronouns: She/Her <br>
+
+💻 My portifólio: [Click here!](https://port-atualizado.vercel.app/)
 
 📫 Find me: adrianascosta9@gmail.com
 <br>
