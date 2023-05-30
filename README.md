@@ -57,17 +57,11 @@
 <br>
  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
- 
-</picture>
-
+![Snake animation](https://github.com/adrianaramss/adrianaramss/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
-<a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamyrespereirasilva" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
 </div>
 
 
