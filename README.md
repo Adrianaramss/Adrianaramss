@@ -55,12 +55,7 @@
    
 </div>
 <br>
- 
-
-![Snake animation](https://github.com/adrianaramss/adrianaramss/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
-
 <a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
 </div>
 
