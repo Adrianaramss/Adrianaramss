@@ -59,7 +59,7 @@
 <a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
 <br/>
     <br/>
-<a href="https://www.instagram.com/adrianaramss/" target="blank"><img align="center" src="https://github.com/Adrianaramss/Adrianaramss/assets/111310311/d0e1b722-22db-4bea-980b-1df7b472e00b" alt="adrianaramss" height="30" width="30" /></a>
+<a href="https://www.instagram.com/adrianaramss/" target="blank"><img align="center" src="https://www.instagram.com/adrianaramss/" height="30" width="30" /></a>
 
 
 </div>
