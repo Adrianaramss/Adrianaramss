@@ -57,9 +57,6 @@
 <br/>
 <div align="center">
 <a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
-<br/>
-    <br/>
-<a href="https://www.instagram.com/adrianaramss/" target="blank"><img align="center" src="https://github.com/Adrianaramss/Adrianaramss/assets/111310311/13e6bd40-11c9-412b-960f-1d74feca4225" height="30" width="30" /></a>
 
 
 </div>
