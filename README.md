@@ -4,7 +4,6 @@
 </a>
 </div>
 
-## Sobre mim: 
 <img align="right" height="190" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
 
 🔭 Formada em Desenvolvimento Web Full Stack na Labenu <br>
@@ -17,7 +16,7 @@
 
 <br>
 
-## Minhas Skills
+## 🚀 Minhas Skills
 
 <div align="center">
 <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -37,7 +36,7 @@
    
 </div>
 
-## Estatísticas
+## 📊 Estatísticas
 
 <br>
 <div align="center">
