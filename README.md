@@ -48,14 +48,10 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false" />
 </div>
    
-
 <br/>
-<div align="center">
-<a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
 
-
-</div>
-
+## 🌐 Minhas redes:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adrianaramss/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriana-ramss/) 
 
 
 
