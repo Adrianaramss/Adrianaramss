@@ -1,42 +1,24 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=black&center=true&vCenter=true&width=700&lines=Hi!+Call+me+Adriana+👋+Full+Stack+Developer+💻💜;" alt="Olá, Meu nome é Adriana.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=black&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Adriana+👋💻💜;" alt="Olá, Meu nome é Adriana.">
 </a>
 </div>
 
-## About me: 
+## Sobre mim: 
 <img align="right" height="190" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
 
+🔭 Formada em Desenvolvimento Web Full Stack na Labenu <br>
 
+💻 Cursando Análise e desenvolvimento de sistemas <br>
 
-🔭 Full Stack Web Developer formed by Labenu <br>
+🌸 Pronouns: Ela/dela <br>
 
-💻 HTML | CSS | React | Jest | JavaScript | Node JS | TypeScript | MySQL | AWS <br>
+💻 Meu portifólio: [Clique aqui!](https://port-atualizado.vercel.app/)
 
-🔭 I’m looking for a job <br>
-
-🌸 Pronouns: She/Her <br>
-
-💻 My portifólio: [Click here!](https://port-atualizado.vercel.app/)
-
-📫 Find me: adrianascosta9@gmail.com
 <br>
 
+## Minhas Skills
 
-
-## 
-<br>
-<div align="center">
-
-  <a href="https://github.com/Adrianaramss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianaramss&layout=compact&langs_count=7&theme=radical"/> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false" />
-</div>
-   
-</div>
-<br>
-<br>
 <div align="center">
 <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -54,6 +36,19 @@
 <img  alt="Trello" height="30" width="30"  title="Trello" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
    
 </div>
+
+## Estatísticas
+
+<br>
+<div align="center">
+
+  <a href="https://github.com/Adrianaramss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianaramss&layout=compact&langs_count=7&theme=radical"/> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false" />
+</div>
+   
+
 <br/>
 <div align="center">
 <a href="https://linkedin.com/in/adriana-ramss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianaramss" height="20" width="30" /></a>
