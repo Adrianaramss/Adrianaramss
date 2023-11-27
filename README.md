@@ -52,7 +52,7 @@
 
 ## 🌐 Minhas redes:
 <a href="https://www.instagram.com/adrianaramss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/adriana-ramss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/adriana-ramss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
