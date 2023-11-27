@@ -11,7 +11,7 @@
 
 💻 Cursando Análise e desenvolvimento de sistemas <br>
 
-🌸 Pronouns: Ela/dela <br>
+🌸 Pronomes: Ela/dela <br>
 
 💻 Meu portifólio: [Clique aqui!](https://port-atualizado.vercel.app/)
 
