@@ -42,9 +42,9 @@
 <div align="center">
 
   <a href="https://github.com/Adrianaramss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianaramss&layout=compact&langs_count=7&theme=radical"/> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianaramss&theme=radical&hide_border=false"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianaramss&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
    
 <br/>
