@@ -21,7 +21,7 @@
 <div align="center">
 <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <img  alt="Java" height="30" width="30"  title="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 <img  alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 <img alt="React" height="30" width="40" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -33,6 +33,7 @@
 <img  alt="Postman" height="30" width="30"  title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
  <img  alt="Figma" height="30" width="30"  title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 <img  alt="Trello" height="30" width="30"  title="Trello" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+
    
 </div>
 
