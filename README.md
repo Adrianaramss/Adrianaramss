@@ -32,6 +32,8 @@
 <img  alt="Jest" height="30" width="40"  title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img  alt="Node-Js" height="30" width="40" title="Node-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img  alt="sqlite" height="30" width="40"  title="SqLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+<img  alt="mysql" height="30" width="40"  title="Mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+
 <img  alt="Postman" height="30" width="30"  title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
  <img  alt="Figma" height="30" width="30"  title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 <img  alt="Trello" height="30" width="30"  title="Trello" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
