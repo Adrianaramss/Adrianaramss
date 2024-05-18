@@ -12,7 +12,6 @@
 
 🌸 Pronomes: Ela/dela <br>
 
-💻 Meu portifólio: [Clique aqui!](https://port-atualizado.vercel.app/tech.html)
 
 <br>
 
