@@ -6,7 +6,7 @@
 
 <img align="right" height="190" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
 
-🔭 Formada em Desenvolvimento Web Full Stack na Labenu <br>
+🔭 Formada em Desenvolvimento Web Full Stack <br>
 
 💻 Cursando Análise e desenvolvimento de sistemas <br>
 
@@ -24,6 +24,8 @@
 <img alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <img  alt="Java" height="30" width="30"  title="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
     <img  alt="Spring Boot" height="30" width="40"  title="Spring" src="https://camo.githubusercontent.com/db67b3eac7224d5bf5afb141bb18b264c1f131bc780faac846f036c1cde4fc9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f737072696e672f737072696e672d6f726967696e616c2d776f72646d61726b2e737667">
+<img alt="Python" height="30" width="40" title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
 
 <img  alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 <img alt="React" height="30" width="40" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
